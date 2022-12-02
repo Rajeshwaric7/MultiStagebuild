@@ -1,1 +1,1 @@
-# MultiStage build fro Python
+# MultiStage build for Python
